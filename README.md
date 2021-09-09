@@ -8,7 +8,6 @@
 - 👯 Pretendo colaborar com Projetos Web e Análise de Dados
 - 🤔 Preciso de ajuda em atividades que envolvam todas as camadas de uma aplicação WEB
 - 😍 As áreas que mais me identifico e que tenho mais habilidade é em Desenvolvimento WEB e Ciência de Dados.
-- 😢 Por enquanto sou ruim em Infraestrutura, mas tô correndo atrás do prejuízo Hahaha. 
 - 👨‍💻 Contate-me pelo email carloslima568@gmail.com
 
 
