@@ -4,9 +4,8 @@
 **CAL4025/CAL4025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 Iniciante na carreira de Desenvolvedor. Atuo como FullStack, porém mais focado em Backend.
-- 🌱 Estou aprendendo JavaScript, HTML, CSS, SASS, Python, C#, PostgreSql, Windows Forms, ASP.NET MVC e API .NET
+- 🌱 Estou aprendendo JavaScript, HTML, CSS, Python, C#, PostgreSql, Windows Forms, ASP.NET MVC e API .NET
 - 👯 Pretendo colaborar com Projetos Web e Análise de Dados
-- 🤔 Preciso de ajuda em atividades que envolvam todas as camadas de uma aplicação WEB
 - 😍 As áreas que mais me identifico e que tenho mais habilidade é em Desenvolvimento WEB e Ciência de Dados.
 - 👨‍💻 Contate-me pelo email carloslima568@gmail.com
 
